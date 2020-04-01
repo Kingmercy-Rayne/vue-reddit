@@ -1,5 +1,5 @@
 {
-  "name": "weather-app",
+  "name": "programmer-humor",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -41,5 +41,11 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "prettier": { 
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "arrowParens": "always"
+  }
 }
